@@ -1,0 +1,168 @@
+<DOCTYPE HTML>
+<HTML>
+<HEAD>
+    
+<TITLE>HACKATHON </TITLE>
+          <link rel="shortcut icon" href="bkbiet.jpg" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">	
+<STYLE>
+html {
+  scroll-behavior: smooth;
+}
+    .k{
+margin-left: 30%;
+    margin-top: 10%; }
+    
+.s
+{
+float: inherit;
+background-image:url(girl.jpg);
+
+BACKGROUND-SIZE:cover;
+height:100%;
+}
+h1
+{
+color:white;
+
+font-size:40px;
+font-family:serif;
+}
+.V1 P
+{
+border-style: dotted;
+border-style: dotted dashed solid double;
+}
+.V1
+{
+COLOR:WHITE;
+MARGIN-TOP:100PX;
+WIDTH:100%;
+//BACKGROUND-SIZE:COVER;
+HEIGHT:100PX;
+//MARGIN-LEFT:20PX;
+//OPACITY:0.5;
+}
+.V2 
+{
+overflow: hidden;
+background-color:BLACK;
+}
+.V2 a 
+{
+float: left;
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+.V2 a:hover 
+{
+background-color: white;
+color: black;
+font-size: 18.3px;
+transition: 0.6s ease;
+}
+.fa-facebook
+{
+margin-left: 750px;
+padding: 100px; 
+}
+.V3
+{
+ background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+.v4
+{
+overflow: hidden;
+background-color:BLACK;
+}
+.V4 a:hover 
+{
+background-color: white;
+color: black;
+font-size: 18.3px;
+transition: 0.6s ease;
+}
+
+
+.V6{
+
+
+
+margin-top:70px;
+
+
+
+}
+.V6 a{
+text-decoration:none;
+color:black;
+font-size:40px;
+border:1px solid black ;
+font-family: apple chancery, cursive;
+padding-left:10px;
+padding-right:10px;
+}
+.V6 a:hover 
+{
+color: black;
+font-size: 40px;
+transition: 0.6s ease;
+}
+
+
+
+
+</STYLE>
+</HEAD>
+<BODY>
+
+<div class=s><H1 STYLE="TEXT-ALIGN:CENTER; color:white"><span style="color:black">HACKATHON INSTITUTE OF ENGINEERING AND TECHNOLOGY</span> </H1>
+
+<DIV CLASS=V2>
+              <a href="mainpage.html">HOME</a>
+              <a href="#about">ABOUT US</a>
+       	      <a href="https://forms.gle/KyqFrnxdY2rtZQsQ6">FEEDBACK</a>
+              <a href="login.html">LOGIN</a>
+    <a href="chatbot.html">HELP-BOT</a>
+      	      <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+              <a href="https://twitter.com/login" class="fa fa-twitter"></a>
+              <a href="https://www.linkedin.com/in/" class="fa fa-linkedin"></a>
+              <a href="https://www.instagram.com/accounts/login/" class="fa fa-instagram"></a
+	      <a href="" class="fa fa-bars"></a>
+</DIV>
+    <div class="k">
+    <div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="img1.jpg" style="width:100%">
+  <img class="mySlides" src="img2.jpg" style="width:100%">
+  <img class="mySlides" src="img3.jpg" style="width:100%">
+</div>
+
+
+    </div>
+ 
+
+</div>
+
+
+<div class=v8 style="margin-top:10px">
+<center><u><h2 style="font-size:40px">About Us</h2></u></center>
+</div>
+
+<center><h2 id="about">
+HACKATHON Institute of Engineering & Technology is one of the premier industry-oriented and application-driven institutes in India. Shree HACKIT Charity Trust, under Chairmanship of renowned industrialist ANTIEKU, set up HACKIT, in 2007.
+
+The Institution has been true to its commitment in providing quality education in Engineering and Technology. Our strong alliances with leading international universities, industries and professional bodies have increased access to latest education, opportunities for engagement and exchange, collaborative research and innovation for our students and faculties. We believe the best way to help HACKITians meet challenges is to provide a supportive and enriching environment
+
+
+</h2></center></BODY>
+</HTML>
